@@ -39,8 +39,7 @@ This program is designed to calculate the cost
 of a shipment, with customized discounts. 
 To get started, upload the file input.txt. 
 Open the output.txt file to get the calculated data.
-Good luck!
-""", font=("Times", 12))
+Good luck!""", font=("Times", 12))
 
 name.grid(row=0, columnspan=5)
 upload_input.grid(row=2, column=0)
