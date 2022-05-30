@@ -1,1 +1,7 @@
-# shipment_price_calculation_model
+# [LT] Siuntų kainų skaičiavimo modelis
+Programa yra skirta apskaičiuoti
+
+
+
+
+# [EN] Shipment price calculation model
