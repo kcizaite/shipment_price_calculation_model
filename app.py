@@ -1,13 +1,7 @@
 from tkinter import *
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
 from calculation import *
 from tkinter import messagebox
 
-
-engine = create_engine("sqlite:///shipment_price_data.db")
-Session = sessionmaker(bind=engine)
-session = Session()
 
 root = Tk()
 
